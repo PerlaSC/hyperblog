@@ -42,3 +42,13 @@ body
 {
     padding: 1em;
 }
+footer{
+    background-color: #777;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    font-family: Arial;
+    padding: 0.5em;
+    margin: 0 auto;
+    width: 70%;   
+}
